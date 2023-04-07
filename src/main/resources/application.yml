@@ -1,0 +1,5 @@
+spring:
+  elasticsearch:
+    uris: http://114.132.204.70:9200
+server:
+  port: 8083
